@@ -15,7 +15,7 @@ Support Case Huddle is a React application designed to manage support cases and 
 ## Installation
 1. Clone the repository:
 
-   git clone https://github.com/your-username/support-case-huddle.git
+   git clone https://github.com/clesane/case-huddle.git
  
 2. Navigate to the project directory:
   
