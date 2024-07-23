@@ -36,11 +36,6 @@ install
 To import cases from a CSV file, the file should have the following structure:
 
 
-caseNumber,customer,supportEngineer,dateOpened,productServiceArea,issueType,labels
-CASE-001,Customer A,John Doe,2024-01-01,Product A,Bug / Defect,"label1,label2"
-CASE-002,Customer B,Jane Smith,2024-02-15,Product B,Feature Request,"label3,label4"
-CASE-003,Customer C,Emily Johnson,2024-03-20,Product C,Configuration Issue,"label5,label6"
-```
 
 ### Example CSV Content
 
@@ -48,7 +43,7 @@ caseNumber,customer,supportEngineer,dateOpened,productServiceArea,issueType,labe
 CASE-001,Customer A,John Doe,2024-01-01,Product A,Bug / Defect,"label1,label2"
 CASE-002,Customer B,Jane Smith,2024-02-15,Product B,Feature Request,"label3,label4"
 CASE-003,Customer C,Emily Johnson,2024-03-20,Product C,Configuration Issue,"label5,label6"
-```
+
 
 - **caseNumber**: Unique identifier for the case.
 - **customer**: Name of the customer.
